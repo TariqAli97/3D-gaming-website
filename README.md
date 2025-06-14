@@ -23,5 +23,5 @@ Hi! I'm **Tariq Ali**, a passionate frontend developer with strong skills in bui
 
 ---
 
-> *“Code is not just code, it’s an experience.”*
+> *“Code is not just code, it’s an experience”*
 
